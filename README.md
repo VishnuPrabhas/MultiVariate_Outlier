@@ -1,2 +1,2 @@
 # MultiVariate_Outlier
-Detection of outliers using R (MultiVariate)
+Detection of outliers in R (MultiVariate)
